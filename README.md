@@ -122,6 +122,8 @@ save_video(video, "output.mp4")
 - 建议视频长度：5-30秒
 - 分辨率：至少512x512
 - 音频：清晰的说话声
+- 本项目中我们主要采用了CelebV-HQ的数据进行了训练。对于相应的数据集下载和处理请参照CelebV-HQ (https://github.com/CelebV-HQ/CelebV-HQ) 的原始方案。
+
 
 目录结构：
 ```
